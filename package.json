@@ -1,0 +1,10 @@
+{
+  "name": "node-type-script-demo",
+  "version": "1.0.0",
+  "description": "",
+  "author": "酷酷的哀殿",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^12.12.21"
+  }
+}
